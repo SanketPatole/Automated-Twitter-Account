@@ -1,0 +1,1 @@
+9999999999{"name": "pyarrow", "version": "11.0.0", "summary": "Python library for Apache Arrow", "platform": null, "requires_dist": ["numpy (>=1.16.6)"], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}

@@ -1,0 +1,1 @@
+9999999999{"name": "Quote2Image", "version": "0.0.5", "summary": "A python module to convert text quotes into graphical images", "platform": null, "requires_dist": ["Pillow (==9.2.0)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
